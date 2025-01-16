@@ -5,6 +5,9 @@
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Huruk4u&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
+<br>
+<br>
+
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-34A853.svg?&style=for-the-badge&logo=Android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
