@@ -1,16 +1,12 @@
-
-
-# GIT
-<a href="https://github.com/Huruk4u/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Huruk4u&theme=chartreuse-dark&show_icons=true" />
-</a>
+# SEONGMIN YOO
+![Huruk4u's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huruk4u&show_icons=true&theme=dark)
 <a href="https://github.com/Huruk4u/convoychat">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Huruk4u&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
-
+<br>
 
 # Problem Solving
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungmin915)]
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungmin915)
 
 
 # Skills
@@ -25,3 +21,6 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+
+# Blog
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://5ylop.tistory.com/)]
