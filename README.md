@@ -1,10 +1,8 @@
-[![Huruk4u's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huruk4u)](https://github.com/Huruk4u/github-readme-stats)
-
 <a href="https://github.com/Huruk4u/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Huruk4u" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Huruk4u&theme=chartreuse-dark&show_icons=true" />
 </a>
 <a href="https://github.com/Huruk4u/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Huruk4u&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Huruk4u&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
