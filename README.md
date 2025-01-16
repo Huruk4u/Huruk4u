@@ -7,6 +7,7 @@
 
 <br>
 <br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungmin915)](https://solved.ac/sungmin915/)
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-34A853.svg?&style=for-the-badge&logo=Android&logoColor=white)
