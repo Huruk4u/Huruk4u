@@ -5,7 +5,8 @@
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Huruk4u&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungmin915)](https://solved.ac/sungmin915/)
+# Problem Solving
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungmin915)]
 
 # Skills
 ### Platforms & Languages
